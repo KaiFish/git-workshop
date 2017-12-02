@@ -1,3 +1,7 @@
 Campus Experts have a unique octocat sticker they can give you!
 
+<<<<<<< HEAD
 Pigs can get a sunburn.
+=======
+CONFLIIIIIICTS
+>>>>>>> 48c6c583f37f3f76bef685b7acb92a6f9cdc9573
